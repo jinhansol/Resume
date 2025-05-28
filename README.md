@@ -50,7 +50,7 @@
        - 2025.05 미래내일일경험 프로젝트형 LMM 기반 대화형 AI 인공지능 비서(2025.06 ~).
     </section>
   </article>
-  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/사용자명/github-readme-stats)
+  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhansol)](https://github.com/jinhansol/github-readme-stats)
 </main>
 </body>
 </html>
