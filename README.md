@@ -74,7 +74,8 @@
      </br>
      <a href="https://github.com/jinhansol/github-readme-stats" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=jinhansol" alt="jinhansol's GitHub stats">
-    </a>   
+    </a>
+        <img src="https://capsule-render.vercel.app/api?section=footer&type=Waving&color=7F7FD5&height=200&text=%20&fontSize=60" alt="footer capsule-render"/>
     </section>
   </article>
 </main>
