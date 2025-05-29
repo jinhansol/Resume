@@ -49,6 +49,16 @@
             <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
         </li>  
      </section>
+     <hr>
+    <section>
+     <h2>Project</h2>
+         1. **한이음 공모전 - 공공기반 AI 키오스크**</br>
+       - AI agent 기반 공공기관 목적용 AI 키오스크을 개발(2025.06 ~).
+        </br>
+         2. **미래 내일 일자리**</br>
+       - 2025.05 미래내일일경험 프로젝트형 LMM 기반 대화형 AI 인공지능 비서(2025.06 ~).
+    </section>
+    <hr>
      <section>
       <h2>EDUCATION</h2>
       <li>한국폴리텍대학 졸업 (2015.03 ~ 2020.02)</li>
@@ -57,6 +67,7 @@
       <li>폴리텍 하이테크과정-인공지능 소프트웨어 (2025.03 ~ 2025.12)</li>
     </section>            
   </article>
+    <hr>
   <article id="mainRight">
     <section>
      <h2>ABOUT</h2>
@@ -64,14 +75,6 @@
      <a href="https://github.com/jinhansol/github-readme-stats" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=jinhansol" alt="jinhansol's GitHub stats">
     </a>   
-    </section>
-    <section>
-     <h2>Project</h2>
-         1. **한이음 공모전 - 공공기반 AI 키오스크**</br>
-       - AI agent 기반 공공기관 목적용 AI 키오스크을 개발(2025.06 ~).
-        </br>
-         2. **미래 내일 일자리**</br>
-       - 2025.05 미래내일일경험 프로젝트형 LMM 기반 대화형 AI 인공지능 비서(2025.06 ~).
     </section>
   </article>
 </main>
