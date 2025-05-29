@@ -6,7 +6,9 @@
 </head>
 <body>
     <header id="header">
+    <a>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+    </a>
   <!-- 이력서 헤더 : 이름과 타이틀 작성 -->
   <h1>안녕하세요. 진한솔입니다.</h1>
   <hr>
