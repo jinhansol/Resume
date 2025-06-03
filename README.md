@@ -67,11 +67,34 @@
       <li>한국폴리텍대학 졸업 (2015.03 ~ 2020.02)</li>
       <li>아신대학교 졸업 (2020.03 ~ 2022.02)</li>
       <li>[빅데이터개발·활용]ELK활용 빅데이터 분석서비스 플랫폼개발자양성 (2022.04 ~ 2022.10)</li>
-      <li>폴리텍 하이테크과정-인공지능 소프트웨어 (2025.03 ~ 2025.12)</li>
-    </section>            
-  </article>
-    <hr>
+      <li>폴리텍 하이테크과정-인공지능 소프트웨어 (2025.03 ~ 2025.12)</li></br>
+    </section>
+
+  <details>
+    <summary><b>📦 Repositories 구조 보기</b></summary>
+          
+    
+    Repositories
+    ├─ 🌐 Web
+    │ ├─ jinhansol (HTML)
+    │ │ └─ test-web-site (HTML)
+    │ ├─ java_web (Java)
+    │ │ └─ test (Java)
+    │ │ └─ shopping (Java)
+    │ └─ hitp (Java)
+    ├─ 📊 Data
+    │ ├─ data-structure (Jupyter Notebook)
+    │ │ └─ coding-problem (Jupyter Notebook)
+    ├─ 🧠 AI
+    │ └─ LLM (Python)
+    └─ 🤖 AutoPush
+    └─ programmers (Python)
+    
+          
+
+</article>    
   <article id="mainRight">
+      <hr>
     <section>
      <h2>ABOUT</h2>
      </br>
