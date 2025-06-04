@@ -75,7 +75,7 @@
     jinhansol/
     ├─ 🌐 Web
     │ ├─ java_web (Java)
-    │ ├─ test (Java)
+    │ ├─ java (Java)
     │ ├─ shopping (Java)
     │ └─ hitp (Java)
     ├─ 📊 Data
