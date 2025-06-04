@@ -72,20 +72,17 @@
     <h2>📦 Repositories 구조 보기</h2>
           
     
-    Repositories
+    jinhansol/
     ├─ 🌐 Web
-    │ ├─ jinhansol (HTML)
-    │ │ └─ test-web-site (HTML)
     │ ├─ java_web (Java)
-    │ │ └─ test (Java)
-    │ │ └─ shopping (Java)
+    │ ├─ test (Java)
+    │ ├─ shopping (Java)
     │ └─ hitp (Java)
     ├─ 📊 Data
     │ ├─ data-structure (Jupyter Notebook)
-    │ │ └─ coding-problem (Jupyter Notebook)
+    │ └─ coding-problem (Jupyter Notebook)
     ├─ 🧠 AI
     │ └─ LLM (Python)
-    └─ 🤖 AutoPush
     └─ programmers (Python)
     
           
