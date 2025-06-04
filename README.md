@@ -22,7 +22,18 @@
 <main>
   <article id="mainLeft">
     <section>
-      <h2>SKILLS</h2>
+     <h2>🚀Project</h2>
+         1. **쇼핑몰 프로젝트**</br>
+        -  스프링부트를 이용한 쇼핑몰 프로젝트 with JPA(2024.07~2024.08)
+    </br>
+         2. **한이음 공모전 - 공공기반 AI 키오스크**</br>
+       - AI agent 기반 공공기관 목적용 AI 키오스크을 개발(2025.06 ~).
+        </br>
+         3. **미래 내일 일자리**</br>
+       - 2025.05 미래내일일경험 프로젝트형 LMM 기반 대화형 AI 인공지능 비서(2025.06 ~).
+    </section>
+    <section>
+      <h2>🛠️SKILLS</h2>
       <h4>Language</h4>
         <li><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /></li>
       <h4>Framework</h5>
@@ -49,29 +60,16 @@
             <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
         </li>  
      </section>
-     <hr>
-    <section>
-     <h2>Project</h2>
-         1. **쇼핑몰 프로젝트**</br>
-        -  스프링부트를 이용한 쇼핑몰 프로젝트 with JPA(2024.07~2024.08)
-    </br>
-         2. **한이음 공모전 - 공공기반 AI 키오스크**</br>
-       - AI agent 기반 공공기관 목적용 AI 키오스크을 개발(2025.06 ~).
-        </br>
-         3. **미래 내일 일자리**</br>
-       - 2025.05 미래내일일경험 프로젝트형 LMM 기반 대화형 AI 인공지능 비서(2025.06 ~).
-    </section>
     <hr>
      <section>
-      <h2>EDUCATION</h2>
+      <h2>🎓EDUCATION</h2>
       <li>한국폴리텍대학 졸업 (2015.03 ~ 2020.02)</li>
       <li>아신대학교 졸업 (2020.03 ~ 2022.02)</li>
       <li>[빅데이터개발·활용]ELK활용 빅데이터 분석서비스 플랫폼개발자양성 (2022.04 ~ 2022.10)</li>
       <li>폴리텍 하이테크과정-인공지능 소프트웨어 (2025.03 ~ 2025.12)</li></br>
     </section>
-
-  <details>
-    <summary><b>📦 Repositories 구조 보기</b></summary>
+    <section>
+    <h2>📦 Repositories 구조 보기</h2>
           
     
     Repositories
@@ -91,12 +89,12 @@
     └─ programmers (Python)
     
           
-
+</section>
 </article>    
   <article id="mainRight">
       <hr>
     <section>
-     <h2>ABOUT</h2>
+     <h2>🙋‍♂️ABOUT</h2>
      </br>
      <a href="https://github.com/jinhansol/github-readme-stats" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=jinhansol" alt="jinhansol's GitHub stats">
