@@ -69,6 +69,13 @@
       <li>폴리텍 하이테크과정-인공지능 소프트웨어 (2025.03 ~ 2025.12)</li></br>
     </section>
     <section>
+      <h2>📘qualifications</h2>
+      <li>정보처리기사 필기 (2025.08.30)</li>
+      <li>SQLD(2025.08.23)</li>
+      <li>리눅스마스터 2급 (1차 - 2025.08.07 / 2차 - 2025.09.13)</li>
+      <li>AdSP(2025.08.0)</li></br>
+    </section>
+    <section>
     <h2>📦 Repositories 구조 보기</h2>
           
     
