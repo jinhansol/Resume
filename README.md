@@ -31,19 +31,15 @@
     <section>
      <h2>🚀Project</h2>
          1. **쇼핑몰 프로젝트**</br>
-        -  스프링부트를 이용한 쇼핑몰 프로젝트 with JPA(2024.07~2024.08)
-
+        -  스프링부트를 이용한 쇼핑몰 프로젝트 with JPA(2024.07~2024.08)</br></br>
         Decription
-         <li>Spring Boot와 JPA를 활용해 상품 등록, 장바구니, 주문, 회원관리 등 주요 기능을 갖춘 쇼핑몰 웹 애플리케이션</li>
-
+         <li>Spring Boot와 JPA를 활용해 상품 등록, 장바구니, 주문, 회원관리 등 주요 기능을 갖춘 쇼핑몰 웹 애플리케이션</li></br>
         Tech Stack
-         <li>Java, Spring Boot, JPA, MariaDB, Thymeleaf, HTML5, CSS3, Lombok, Gradle</li>
-
+         <li>Java, Spring Boot, JPA, MariaDB, Thymeleaf, HTML5, CSS3, Lombok, Gradle</li></br>
         What was difficult
-         <li>Spring Security 버전 업데이트로 인해 기존에 사용하던 WebSecurityConfigurerAdapter가 deprecated되어, 새로운 방식인 SecurityFilterChain으로 변경해야 했음</li>
-
+         <li>Spring Security 버전 업데이트로 인해 기존에 사용하던 WebSecurityConfigurerAdapter가 deprecated되어, 새로운 방식인 SecurityFilterChain으로 변경해야 했음</li></br>
         What I leaned
-         <li>Spring Security의 구조와 버전별 차이를 해결하기 위해, 공식 문서와 커뮤니티 자료를 적극적으로 활용하여 문제를 해결하는 경험을 쌓음</li>
+         <li>Spring Security의 구조와 버전별 차이를 해결하기 위해, 공식 문서와 커뮤니티 자료를 적극적으로 활용하여 문제를 해결하는 경험을 쌓음</li></br>         
     </br>
          2. **한이음 공모전 - 공공기반 AI 키오스크**</br>
        - AI agent 기반 공공기관 목적용 AI 키오스크 개발(2025.06 ~).
